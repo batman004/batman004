@@ -1,24 +1,12 @@
-# github-profile-summary-cards-example
+### Hi there 👋
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+![GitHub followers](https://img.shields.io/github/followers/batman004?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/batmansingh007?style=social) !
+- I’m currently working on Chrome Extensions 
+- Learning Javascript,NLP and (casually)app dev
+- I have experience with Machine Learning as well as Web Dev projects.
+- I’m looking to collaborate on building ML projects
+- I’m looking for help with Chrome Extensions
+- How to reach me: pathania.yuvraj@gmail.com 
+- Fun fact: I'm a part-time DJ 
 
-```To create your profile README you need to name the repo as your username```
 
-Then you can use everything in profile-summary-card-output folder
-| :warning: | If your workflow does not generate all cards in output folder, then you need to use [Personal access token](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) instead of GITHUB_TOKEN in workflow. |
-| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-[Creating a personal access token
-](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
-
-[Personal token permissions](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Personal-access-token-permissions)
-
-| :warning: | Don't forget to modify the image path (The correct path is in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
-
-[![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
