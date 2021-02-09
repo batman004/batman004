@@ -10,8 +10,7 @@
 - Fun fact: I'm a part-time DJ 
 
 
-[![](https://raw.githubusercontent.com/batman004/github-profile-summary-cards-example/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/batman004/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/batman004/github-profile-summary-cards-example/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/batman004/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/batman004/github-profile-summary-cards-example/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/batman004/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/batman004/github-profile-summary-cards-example/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/batman004/github-profile-summary-cards)
-
+[![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/batman004/github-profile-summary-cards)
+[![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/batman004/github-profile-summary-cards)
+[![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/batman004/github-profile-summary-cards)
+[![](./profile-summary-card-output/github/3-stats.svg)](https://github.com/batman004/github-profile-summary-cards)
