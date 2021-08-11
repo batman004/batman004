@@ -14,3 +14,7 @@
 [![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/batman004/github-profile-summary-cards)
 [![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/batman004/github-profile-summary-cards)
 [![](./profile-summary-card-output/github/3-stats.svg)](https://github.com/batman004/github-profile-summary-cards)
+
+### My latest tracks :
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/4ahvw3DAvZ2lMhxGJJkjEu?si=a2cbc0afa6fc48f4)
+
